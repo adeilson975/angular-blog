@@ -3,7 +3,9 @@
   display: flex;
   flex-direction: row;
   justify-content:center;
-  
+  margin-top: 40px;
+  margin-right: 60px;
+
 }
 .small-card__foto > img {
   width: 300px;
@@ -11,4 +13,8 @@
   margin-right: 20px;
   margin-bottom: 20px;
 
+}
+.small-card__titulo > p > a {
+  text-align: justify;
+  color: gray;
 }
