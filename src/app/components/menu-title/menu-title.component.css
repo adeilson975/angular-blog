@@ -1,14 +1,11 @@
-.container__menu-title {
-  color: #fff;
-
-}
+@import url('https://fonts.cdnfonts.com/css/star-wars');
 .container__menu-title > h1 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Star Wars', sans-serif;
+  color: #FFFF00;
   margin-top: 15px;
   margin-bottom: 15px;
   font-size: 150px;
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 .container__menu-title > hr {
   margin-top: 20px;
